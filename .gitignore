@@ -1,2 +1,4 @@
 **/__pycache__
 python/docs/build
+rust/Cargo.lock
+rust/target
