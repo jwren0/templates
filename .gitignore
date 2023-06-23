@@ -1,4 +1,9 @@
 **/__pycache__
+java/.gradle
+java/app/build
+java/gradle
+java/gradlew
+java/gradlew.bat
 python/docs/build
 rust/Cargo.lock
 rust/target
